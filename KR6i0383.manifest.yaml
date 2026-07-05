@@ -37,9 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0383_000.yaml, hash: 'sha256:98777c01e4f991cd24d2c934579a17d8a72ad8891e029f6286f74bc4886695ef'}
-  - {seq: 1, filename: KR6i0383_001.yaml, hash: 'sha256:33de36a63cb8a477723a8057bd2a4bd4c4d710926bef01bd9e5998a03b97e673'}
+  - {seq: 1, filename: KR6i0383_001.yaml, hash: 'sha256:136a1c6e48cb7169d03a67f6bbb9d5ed3c4eab470be4d854af346d9cad2cc706'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0383_001.markers.yaml, hash: 'sha256:2387f661bf7585e86dfed02b1d92ee6b3c699b3bc330d605277be02e3d535d50'}
+  - {seq: 0, role: markers, filename: assets/KR6i0383_000.markers.yaml, hash: 'sha256:8dcc857b28e2ee0711acd39831bb0cbc9e25ca930cfbe7687280a94ae4b70b8f'}
+  - {seq: 1, role: markers, filename: assets/KR6i0383_001.markers.yaml, hash: 'sha256:a0ba423ec0f07fd433ade98151191f86ff75beafeebb28f8eeb1e34b0be39966'}
 table_of_contents:
 - ref:
     seq: 1
@@ -51,7 +52,4 @@ table_of_contents:
   label: 佛說造立形像福報經
   type: juan
   level: 1
-hash: sha256:4f0a70702ef9c6738d0cb65815b119ae5f560d4bb14d53056b5cee3e32086faa
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:087d80d19b4e585c5203a17e825c7fa8c2e1fb94a06fde068971227fe5bba51e
