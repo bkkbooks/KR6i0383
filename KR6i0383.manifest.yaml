@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0383/v1
 canonical_location: https://kanripo.org/bkk/KR6i0383/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說造立形像福報經
   identifiers:
@@ -37,10 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0383_000.yaml, hash: 'sha256:98777c01e4f991cd24d2c934579a17d8a72ad8891e029f6286f74bc4886695ef'}
-  - {seq: 1, filename: KR6i0383_001.yaml, hash: 'sha256:136a1c6e48cb7169d03a67f6bbb9d5ed3c4eab470be4d854af346d9cad2cc706'}
+  - {seq: 1, filename: KR6i0383_001.yaml, hash: 'sha256:c160ee20a506169b8a8cf3c738530043b34494b8036e470094482747da3202f5'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0383_000.markers.yaml, hash: 'sha256:8dcc857b28e2ee0711acd39831bb0cbc9e25ca930cfbe7687280a94ae4b70b8f'}
-  - {seq: 1, role: markers, filename: assets/KR6i0383_001.markers.yaml, hash: 'sha256:a0ba423ec0f07fd433ade98151191f86ff75beafeebb28f8eeb1e34b0be39966'}
+  - {seq: 1, role: markers, filename: assets/KR6i0383_001.markers.yaml, hash: 'sha256:22f76418f4f8dfdc572dcea33036277723261d956236da5b956cbcf9a94aa9fa'}
 table_of_contents:
 - ref:
     seq: 1
@@ -52,4 +52,7 @@ table_of_contents:
   label: 佛說造立形像福報經
   type: juan
   level: 1
-hash: sha256:087d80d19b4e585c5203a17e825c7fa8c2e1fb94a06fde068971227fe5bba51e
+hash: sha256:723ae39c21c31e2763c4dc0a6051f491aaf96c2958ee4a1037f180fa6e3ef145
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
